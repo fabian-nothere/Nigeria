@@ -1,0 +1,43 @@
+.window{
+    background-color: white;
+}
+.black{ 
+    background-color:darkslategray
+}
+#logo{
+    background-color:darkslategray
+    color white
+}
+.index{
+    background-color:darkslategray
+    color white
+}
+.awesome{
+    background-color:darkslategray
+    color white
+}
+#bttn{
+    background-color: blue;
+}
+#whiteback{
+    background-color: white;
+    color: black;
+}
+.images{
+    color: black;
+}
+.quote{
+    color: black;
+    padding: 2%;
+}
+.bttmpg{
+    background-color: white;
+}
+#bluetxt{
+    background-color: blue;
+    color: white;
+}
+#end{
+    color: white;
+    background-color: darkslategray;
+}
